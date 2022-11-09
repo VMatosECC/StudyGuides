@@ -1,2 +1,2 @@
 # StudyGuides
-Problems that prepare you for term exams
+Sample problems that you should work on to prepare for exams.
